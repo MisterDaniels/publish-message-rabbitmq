@@ -1,0 +1,12 @@
+{
+    "name": "publish-message-rabbitmq",
+    "require": {
+        "php-amqplib/rabbitmq-bundle": "~1.6"
+    },
+    "authors": [
+        {
+            "name": "Daniel Silva",
+            "email": "dodosilva51@gmail.com"
+        }
+    ]
+}
